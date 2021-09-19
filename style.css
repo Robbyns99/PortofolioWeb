@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #79f6ff;
+}
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+#Projects {
+  background-color: #79f6ff;
+}
+section {
+  padding-top: 5rem;
+}
