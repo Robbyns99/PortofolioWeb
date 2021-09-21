@@ -12,3 +12,9 @@
 section {
   padding-top: 5rem;
 }
+.card{
+  width: 11cm;
+}
+.card .card-img-top{
+  height: 10cm;
+}
